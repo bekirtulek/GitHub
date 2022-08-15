@@ -20,6 +20,8 @@ public class Day2_GitGitHub {
    github cok eglenceli
 
      */
-
+    public static void main(String[] args) {
+        System.out.println("branch deneme 1");
+    }
 }
 
