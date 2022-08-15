@@ -9,8 +9,9 @@ public class Day2_GitGitHub {
     gnermek icin kullanilir.(commit yani version yani yeni surum olusturulmus olur)]
     5-) git push [uzak repo'ya (yani remote- github'a) gondermek icin
     kullandigimiz kod yalniz git push komutunu direkt kullanmak istersek 1 kez
-            git remote add orgin [github adresi]
+            git remote add origin [github adresi]
             git push -u origin master]
+
    NOT: Yukarıdaki iki komutu tek seferde kullandıktan sonra
    ikinci commit'lerim için sadece git push kullanırız...
 
