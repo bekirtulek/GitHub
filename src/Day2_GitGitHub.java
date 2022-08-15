@@ -16,6 +16,7 @@ public class Day2_GitGitHub {
    
    not: git log --oneline versionlari gosterir
    not github ogrendim
+   github cok eglenceli
 
      */
 
