@@ -3,6 +3,7 @@ public class Day1_Git {
         System.out.println("hello git 1. deneme");
         System.out.println("hello git 2. deneme");
         System.out.println("hello git 3. deneme");
+        System.out.println("hello git 4. deneme");
         // working space
         // staged area
         // commit store
